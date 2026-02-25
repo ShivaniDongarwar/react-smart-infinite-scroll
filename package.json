@@ -1,0 +1,23 @@
+{
+  "name": "react-smart-infinite-scroll",
+  "version": "1.0.0",
+  "description": "Lightweight reusable infinite scroll hook for React",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --dts --format esm,cjs",
+    "dev": "tsup src/index.ts --watch"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "react": "^19.2.4",
+    "tsup": "^7.0.0",
+    "typescript": "^5.0.0"
+  }
+}
