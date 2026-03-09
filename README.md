@@ -132,7 +132,7 @@ MIT
 
 ## 👩‍💻 Author
 
-Shivani Dongare
+Shivani
 Frontend Developer (React)
 
 ---
