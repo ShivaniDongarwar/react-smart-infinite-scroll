@@ -1,5 +1,5 @@
 {
-  "name": "react-smart-infinite-scroll",
+  "name": "@shivanikotangale/react-smart-infinite-scroll",
   "version": "0.1.0",
   "description": "A lightweight reusable React infinite scroll hook with TypeScript support.",
   "main": "dist/index.js",

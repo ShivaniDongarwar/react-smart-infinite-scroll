@@ -1,4 +1,4 @@
-# react-smart-infinite-scroll
+# @shivanikotangale/react-smart-infinite-scroll
 
 A lightweight and reusable **React Infinite Scroll Hook** built with TypeScript.
 It helps you easily implement infinite scrolling behavior in scrollable containers without adding heavy dependencies.
@@ -19,13 +19,13 @@ It helps you easily implement infinite scrolling behavior in scrollable containe
 ## 📦 Installation
 
 ```bash
-npm install react-smart-infinite-scroll
+npm install @shivanikotangale/react-smart-infinite-scroll
 ```
 
 or
 
 ```bash
-yarn add react-smart-infinite-scroll
+yarn add @shivanikotangale/react-smart-infinite-scroll
 ```
 
 ---
@@ -34,7 +34,7 @@ yarn add react-smart-infinite-scroll
 
 ```tsx
 import React from "react";
-import { useInfiniteScroll } from "react-smart-infinite-scroll";
+import { useInfiniteScroll } from "@shivanikotangale/react-smart-infinite-scroll";
 
 function App() {
   const { containerRef } = useInfiniteScroll({
